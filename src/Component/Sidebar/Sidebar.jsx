@@ -59,7 +59,7 @@
 // export default Sidebar
 import React, { useState, useContext } from 'react';
 import './Sidebar.css';
-import { assets } from '/Users/ankitraj/Desktop/React/Gemini2.0/Gemini/src/assets/assets.js';
+import { assets } from '../../assets/assets';
 import { Context } from '../../Context/Context';
 
 const Sidebar = () => {
